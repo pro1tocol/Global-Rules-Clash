@@ -4,6 +4,10 @@
 
 # Global-Rules-Clash
 
-| NAME | TYPE | FUNCTION |
+| NAME | TYPE | FUNCTION | DNS |
 | :---: | :---: | :---: |
-| blacklist.ini | global | disable connections |
+| blacklist.yaml | global | disable connections | NO |
+| direct.yaml | direct | local connect | YES |
+| direct_ipcidr.yaml | direct | local connect | NO |
+| proxy.yaml | proxy | proxy connect | YES |
+| proxy_ipcidr.yaml | proxy connect | NO |
