@@ -10,4 +10,4 @@
 | direct.yaml | direct | local connect | YES |
 | direct_ipcidr.yaml | direct | local connect | NO |
 | proxy.yaml | proxy | proxy connect | YES |
-| proxy_ipcidr.yaml | proxy connect | NO |
+| proxy_ipcidr.yaml | proxy | proxy connect | NO |
