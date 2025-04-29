@@ -1,5 +1,6 @@
 payload:
    #  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,ollama.com
   - DOMAIN-SUFFIX,w3.org
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,ddys.pro
