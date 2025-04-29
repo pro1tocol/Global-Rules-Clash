@@ -5,7 +5,7 @@
 # Global-Rules-Clash
 
 | NAME | TYPE | FUNCTION | DNS |
-| :---: | :---: | :---: |
+| :---: | :---: | :---: | :---: |
 | blacklist.yaml | global | disable connections | NO |
 | direct.yaml | direct | local connect | YES |
 | direct_ipcidr.yaml | direct | local connect | NO |
