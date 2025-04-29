@@ -1,5 +1,9 @@
 payload:
    #   - DOMAIN-SUFFIX,google.com
+   - DOMAIN-SUFFIX,googleapis.com
+   - DOMAIN-SUFFIX,google.com
+   - DOMAIN-SUFFIX,check-host.net
+   - DOMAIN-SUFFIX,osm.org
    - DOMAIN-SUFFIX,githubassets.com
    - DOMAIN-SUFFIX,mozilla.org
    - DOMAIN-SUFFIX,mozilla.net
@@ -22,6 +26,7 @@ payload:
    - DOMAIN-SUFFIX,xvideos.com
    - DOMAIN-SUFFIX,sexbjcam.com
    - DOMAIN-SUFFIX,cocomanga.com
+   - DOMAIN-SUFFIX,youtube.com
    - DOMAIN-SUFFIX,youtu.be
    - DOMAIN-SUFFIX,googlevideo.com
    - DOMAIN-SUFFIX,ytimg.com
@@ -159,7 +164,6 @@ payload:
    - DOMAIN-SUFFIX,twitchcdn.net
    - DOMAIN-SUFFIX,viu.com
    - DOMAIN-SUFFIX,viu.tv
-   - DOMAIN-SUFFIX,youtu.be
    - DOMAIN-SUFFIX,googlevideo.com
    - DOMAIN-SUFFIX,ytimg.com
    - DOMAIN-SUFFIX,ggpht.com
@@ -578,7 +582,6 @@ payload:
    - DOMAIN-SUFFIX,gmodules.com
    - DOMAIN-SUFFIX,godoc.org
    - DOMAIN-SUFFIX,golang.org
-   - DOMAIN-SUFFIX,gstatic.com
    - DOMAIN-SUFFIX,gv.com
    - DOMAIN-SUFFIX,gwtproject.org
    - DOMAIN-SUFFIX,itasoftware.com
@@ -601,7 +604,6 @@ payload:
    - DOMAIN-SUFFIX,whatbrowser.org
    - DOMAIN-SUFFIX,widevine.com
    - DOMAIN-SUFFIX,x.company
-   - DOMAIN-SUFFIX,youtu.be
    - DOMAIN-SUFFIX,yt.be
    - DOMAIN-SUFFIX,ytimg.com
    - DOMAIN-SUFFIX,t.me
@@ -755,6 +757,5 @@ payload:
    - DOMAIN-KEYWORD,buy.itunes.apple.com
    - DOMAIN-KEYWORD,netflix
    - DOMAIN-KEYWORD,mytvsuper
-   - DOMAIN-KEYWORD,google
    - DOMAIN-KEYWORD,blogspot
    - DOMAIN-KEYWORD,netflix
