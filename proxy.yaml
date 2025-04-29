@@ -1,5 +1,6 @@
 payload:
    #  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,openai.com
   - DOMAIN-SUFFIX,googlevideo.com
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,google.com
