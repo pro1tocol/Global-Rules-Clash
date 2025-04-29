@@ -1,5 +1,6 @@
 payload:
    #   - DOMAIN-SUFFIX,google.com
+   - DOMAIN-SUFFIX,0002.tk032.click
    - DOMAIN-SUFFIX,csdn.com
    - DOMAIN-SUFFIX,avoidbuying.com
    - DOMAIN-SUFFIX,nvidia.com
