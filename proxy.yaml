@@ -1,10 +1,7 @@
 payload:
    #   - DOMAIN-SUFFIX,google.com
-   - DOMAIN-SUFFIX,googleapis.com
-   - DOMAIN-SUFFIX,google.com
    - DOMAIN-SUFFIX,check-host.net
    - DOMAIN-SUFFIX,osm.org
-   - DOMAIN-SUFFIX,githubassets.com
    - DOMAIN-SUFFIX,mozilla.org
    - DOMAIN-SUFFIX,mozilla.net
    - DOMAIN-SUFFIX,mozilla.com
@@ -17,9 +14,6 @@ payload:
    - DOMAIN-SUFFIX,stcserver-cloud.com
    - DOMAIN-SUFFIX,bulianglin.com
    - DOMAIN-SUFFIX,v2ex.com
-   - DOMAIN-SUFFIX,github.com
-   - DOMAIN-SUFFIX,github.io
-   - DOMAIN-SUFFIX,githubusercontent.com
    - DOMAIN-SUFFIX,cyber-mobile.net
    - DOMAIN-SUFFIX,pornhub.com
    - DOMAIN-SUFFIX,pornhubpremium.com
@@ -28,7 +22,6 @@ payload:
    - DOMAIN-SUFFIX,cocomanga.com
    - DOMAIN-SUFFIX,youtube.com
    - DOMAIN-SUFFIX,youtu.be
-   - DOMAIN-SUFFIX,googlevideo.com
    - DOMAIN-SUFFIX,ytimg.com
    - DOMAIN-SUFFIX,ggpht.com
    - DOMAIN-SUFFIX,ggpht.cn
@@ -164,7 +157,6 @@ payload:
    - DOMAIN-SUFFIX,twitchcdn.net
    - DOMAIN-SUFFIX,viu.com
    - DOMAIN-SUFFIX,viu.tv
-   - DOMAIN-SUFFIX,googlevideo.com
    - DOMAIN-SUFFIX,ytimg.com
    - DOMAIN-SUFFIX,ggpht.com
    - DOMAIN-SUFFIX,ampproject.org
@@ -176,14 +168,12 @@ payload:
    - DOMAIN-SUFFIX,gvt3.com
    - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
    - DOMAIN-SUFFIX,onedrive.live.com
-   - DOMAIN-SUFFIX,cdninstagram.com
    - DOMAIN-SUFFIX,fb.com
    - DOMAIN-SUFFIX,fb.me
    - DOMAIN-SUFFIX,fbaddins.com
    - DOMAIN-SUFFIX,fbcdn.net
    - DOMAIN-SUFFIX,fbsbx.com
    - DOMAIN-SUFFIX,fbworkmail.com
-   - DOMAIN-SUFFIX,instagram.com
    - DOMAIN-SUFFIX,m.me
    - DOMAIN-SUFFIX,messenger.com
    - DOMAIN-SUFFIX,oculus.com
@@ -620,7 +610,6 @@ payload:
    - DOMAIN-SUFFIX,noxinfluencer.com
    - DOMAIN-SUFFIX,smartmailcloud.com
    - DOMAIN-SUFFIX,weebly.com
-   - DOMAIN-SUFFIX,twitter.jp
    - DOMAIN-SUFFIX,appsto.re
    - DOMAIN-SUFFIX,smoot.apple.com
    - DOMAIN-SUFFIX,cccat.io
@@ -747,10 +736,7 @@ payload:
    - DOMAIN-KEYWORD,hbomax
    - DOMAIN-KEYWORD,-tiktokcdn-com
    - DOMAIN-KEYWORD,clubhouse
-   - DOMAIN-KEYWORD,google
    - DOMAIN-KEYWORD,blogspot
-   - DOMAIN-KEYWORD,facebook
-   - DOMAIN-KEYWORD,twitter
    - DOMAIN-KEYWORD,jav
    - DOMAIN-KEYWORD,pinterest
    - DOMAIN-KEYWORD,porn
