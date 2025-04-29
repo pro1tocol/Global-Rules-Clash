@@ -205,7 +205,7 @@ payload:
    - DOMAIN-SUFFIX,yihuifu.cn
    - DOMAIN-SUFFIX,yuanchengxiezuo.com
    - DOMAIN-SUFFIX,zbrushcn.com
-   - DOMAIN-SUFFIX,zhzzx.com,REJEC
+   - DOMAIN-SUFFIX,zhzzx.com
    #   - DOMAIN,ad.com
    - DOMAIN,geo2.adobe.com
    #   - IP-CIDR,127.0.0.0/8
