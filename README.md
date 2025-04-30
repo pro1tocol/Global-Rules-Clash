@@ -5,7 +5,7 @@
 # Global-Rules-Clash
 
 > ### Check list
-#### View [Branches](https://github.com/pro1tocol/Global-Rules-Clash/tree/rules)
+#### View Branches: [Rules](https://github.com/pro1tocol/Global-Rules-Clash/tree/rules)
 
 > ### How to add rules in Clash
 #### You need add it into 'config.yaml'
@@ -46,6 +46,7 @@ rule-providers:
     url: "https://raw.githubusercontent.com/pro1tocol/Global-Rules-Clash/refs/heads/rules/proxy.yaml"
     interval: 86400
     path: ./rules/proxy.yaml
+
 # make the rules effctive
 rules:
   - DOMAIN-SUFFIX,local,DIRECT,代理
