@@ -49,7 +49,7 @@ rule-providers:
 
 # make the rules effctive
 rules:
-  - DOMAIN-SUFFIX,local,DIRECT,代理
+  - DOMAIN-SUFFIX,local,DIRECT
   - DOMAIN-SUFFIX,jsdelivr.net,代理
   - DOMAIN-SUFFIX,gstatic.com,代理
   - DOMAIN-SUFFIX,docker.com,代理
