@@ -1,4 +1,4 @@
-##### This repository is designed to streamline Clash rules
+##### This repository is designed to streamline Clash(Premium) rules
 
 ##### Reference [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
 
