@@ -6,7 +6,7 @@
 
 | NAME | TYPE | FUNCTION | DNS |
 | :---: | :---: | :---: | :---: |
-| blacklist.yaml | global | disable connections | NO |
+| blacklist.yaml | global | disable connect| NO |
 | direct.yaml | direct | local connect | YES |
 | direct_ipcidr.yaml | direct | local connect | NO |
 | proxy.yaml | proxy | proxy connect | YES |
