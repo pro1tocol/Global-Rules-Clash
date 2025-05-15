@@ -1,5 +1,8 @@
 payload:
    #  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,wd-cloud.net
+  - DOMAIN-SUFFIX,crisp.chat
+  - DOMAIN-SUFFIX,dmit.io
   - DOMAIN-SUFFIX,protondb.com
   - DOMAIN-SUFFIX,v.ps
   - DOMAIN-SUFFIX,vps.hosting
@@ -28,6 +31,9 @@ payload:
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,jable.tv
   - DOMAIN-SUFFIX,netflav.com
+  - DOMAIN-SUFFIX,fuqing.com
+  - DOMAIN-SUFFIX,fuqing.net
+  - DOMAIN-SUFFIX,fuqing.io
   - DOMAIN-SUFFIX,fuqing.cz
   - DOMAIN-SUFFIX,stcserver-cloud.com
   - DOMAIN-SUFFIX,bulianglin.com
