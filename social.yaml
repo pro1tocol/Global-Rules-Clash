@@ -48,6 +48,14 @@ payload:
   - DOMAIN-SUFFIX,netflixdnstest10.com
   - DOMAIN-SUFFIX,netflix.com.edgesuite.net
   - DOMAIN-SUFFIX,netflix.edgekey.net
+  - DOMAIN-SUFFIX,t.co
+  - DOMAIN-SUFFIX,t.me
+  - DOMAIN-SUFFIX,telegra.ph
+  - DOMAIN-SUFFIX,telegram.me
+  - DOMAIN-SUFFIX,telegram.org
+  - DOMAIN-SUFFIX,telesco.pe
+  - DOMAIN-SUFFIX,telegra.ph
+  - DOMAIN-SUFFIX,telephony.goog
 
    #  - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,google

@@ -11,14 +11,6 @@ payload:
   - DOMAIN-SUFFIX,facebookmail.com
   - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-SUFFIX,cdninstagram.com
-  - DOMAIN-SUFFIX,t.co
-  - DOMAIN-SUFFIX,t.me
-  - DOMAIN-SUFFIX,telegra.ph
-  - DOMAIN-SUFFIX,telegram.me
-  - DOMAIN-SUFFIX,telegram.org
-  - DOMAIN-SUFFIX,telesco.pe
-  - DOMAIN-SUFFIX,telegra.ph
-  - DOMAIN-SUFFIX,telephony.goog
 
    #  - DOMAIN-KEYWORD,google
   - DOMAIN-KEYWORD,youtube
