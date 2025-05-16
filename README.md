@@ -14,6 +14,7 @@
 #### DOWNLOAD
 ``` bash
 git clone -b rules --single-branch https://github.com/pro1tocol/Global-Rules-Clash.git
+mv Global-Rules-Clash rules
 ```
 #### UPDATE
 ``` bash
