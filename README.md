@@ -33,34 +33,42 @@ rule-providers:
     interval: 86400
     path: ./rules/direct.yaml
 
-  proxy_ipcidr:
+  work:
     behavior: "classical"
     type: http
-    url: "https://raw.githubusercontent.com/pro1tocol/Global-Rules-Clash/refs/heads/rules/proxy_ipcidr.yaml"
+    url: "https://raw.githubusercontent.com/pro1tocol/Global-Rules-Clash/refs/heads/rules/work.yaml"
     interval: 86400
-    path: ./rules/proxy_ipcidr.yaml
+    path: ./rules/work.yaml
 
-  proxy:
+  social:
     behavior: "classical"
     type: http
-    url: "https://raw.githubusercontent.com/pro1tocol/Global-Rules-Clash/refs/heads/rules/proxy.yaml"
+    url: "https://raw.githubusercontent.com/pro1tocol/Global-Rules-Clash/refs/heads/rules/social.yaml"
     interval: 86400
-    path: ./rules/proxy.yaml
+    path: ./rules/social.yaml
 
-# make the rules effctive
+  modem:
+    behavior: "classical"
+    type: http
+    url: "https://raw.githubusercontent.com/pro1tocol/Global-Rules-Clash/refs/heads/rules/modem.yaml"
+    interval: 86400
+    path: ./rules/modem.yaml
+
 rules:
   - DOMAIN-SUFFIX,local,DIRECT
-  - DOMAIN-SUFFIX,jsdelivr.net,代理
-  - DOMAIN-SUFFIX,gstatic.com,代理
-  - DOMAIN-SUFFIX,docker.com,代理
-  - DOMAIN-SUFFIX,github.io,代理
-  - DOMAIN-SUFFIX,github.com,代理
-  - DOMAIN-SUFFIX,githubassets.com,代理
-  - DOMAIN-SUFFIX,githubusercontent.com,代理
+  - DOMAIN-SUFFIX,cloudflare.com,DIRECT
+  - DOMAIN-SUFFIX,jsdelivr.net,Social
+  - DOMAIN-SUFFIX,gstatic.com,Social
+  - DOMAIN-SUFFIX,docker.com,Work
+  - DOMAIN-SUFFIX,github.io,Work
+  - DOMAIN-SUFFIX,github.com,Work
+  - DOMAIN-SUFFIX,githubassets.com,Work
+  - DOMAIN-SUFFIX,githubusercontent.com,Work
   - RULE-SET,black,REJECT,no-resolve
   - RULE-SET,direct_ipcidr,DIRECT,no-resolve
   - RULE-SET,direct,DIRECT
-  - RULE-SET,proxy_ipcidr,代理,no-resolve
-  - RULE-SET,proxy,代理
-  - MATCH,规则外路由选择
+  - RULE-SET,modem,Modem
+  - RULE-SET,work,Work
+  - RULE-SET,social,Social
+  - MATCH,Match
 ```
