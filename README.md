@@ -1,16 +1,25 @@
 ##### This repository is designed to streamline Clash(Premium) rules
 
-##### Reference [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules)
+##### Source: [https://github.com/pro1tocol/Global-Rules-Clash.git](https://github.com/pro1tocol/Global-Rules-Clash.git)
 
 # Global-Rules-Clash
 
 - ### HOW TO USED
 | NODE | INSTRUCTIONS |
 | :--- | :--- |
+| DIRECT | Local switch |
 | Modem | Load balancing |
 | Social | Support social application |
 | Work | Support work application |
-
+#### DOWNLOAD
+``` bash
+git clone -b rules --single-branch https://github.com/pro1tocol/Global-Rules-Clash.git
+```
+#### UPDATE
+``` bash
+git fetch origin rules
+git pull origin rules
+```
 - ### LIST
 | NAME | TYPE | FUNCTION | DNS |
 | :---: | :---: | :---: | :---: |
