@@ -27,8 +27,9 @@ git pull origin rules
 | blacklist.yaml | global | disable connect| NO |
 | direct.yaml | direct | local connect | YES |
 | direct_ipcidr.yaml | direct | local connect | NO |
-| modem.yaml | proxy | proxy connect | YES |
-| social.yaml | proxy | proxy connect | YES |
-| work.yaml | proxy | proxy connect | YES |
-| proxy_ipcidr.yaml | proxy | proxy connect | NO |
+| modem.yaml | Modem | proxy connect | YES |
+| social.yaml | Social | proxy connect | YES |
+| work.yaml | Work | proxy connect | YES |
+| proxy_ipcidr.yaml | backup/proxy | proxy connect | NO |
+| proxy.yaml | backup/proxy | proxy connect | NO |
 
