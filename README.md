@@ -31,5 +31,5 @@ git pull origin rules
 | social.yaml | Social | proxy connect | YES |
 | work.yaml | Work | proxy connect | YES |
 | proxy_ipcidr.yaml | backup/proxy | proxy connect | NO |
-| proxy.yaml | backup/proxy | proxy connect | NO |
+| proxy.yaml | backup/proxy | proxy connect | YES |
 
