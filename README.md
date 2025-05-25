@@ -56,7 +56,11 @@ rule-providers:
 
 rules:
   - DOMAIN-SUFFIX,local,DIRECT
+  - DOMAIN-SUFFIX,cloudflare-ech.com,DIRECT
   - DOMAIN-SUFFIX,cloudflare.com,DIRECT
+  - DOMAIN-SUFFIX,cloudflare-cn.com,DIRECT
+  - DOMAIN-SUFFIX,cloudflarestream.com,DIRECT
+  - DOMAIN-SUFFIX,cloudflareinsights.com,DIRECT
   - DOMAIN-SUFFIX,jsdelivr.net,Social
   - DOMAIN-SUFFIX,gstatic.com,Social
   - DOMAIN-SUFFIX,docker.com,Work
