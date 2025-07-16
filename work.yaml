@@ -1,5 +1,7 @@
 payload:
    #  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,docker.com
+  - DOMAIN-SUFFIX,docker.io
   - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,staticfile.net
   - DOMAIN-SUFFIX,cilisousuo.co
