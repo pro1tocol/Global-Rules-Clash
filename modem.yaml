@@ -1,5 +1,12 @@
 payload:
    #  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,apple.co
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-SUFFIX,appstore.com
+  - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,icloud.com
+  - DOMAIN-SUFFIX,icloud-content.com
   - DOMAIN-SUFFIX,youtube.com
   - DOMAIN-SUFFIX,youtu.be
   - DOMAIN-SUFFIX,facebook.br
@@ -13,5 +20,7 @@ payload:
   - DOMAIN-SUFFIX,cdninstagram.com
 
    #  - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,apple.com.akadns.net
+  - DOMAIN-KEYWORD,icloud.com.akadns.net
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,facebook
