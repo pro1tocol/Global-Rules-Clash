@@ -1,5 +1,9 @@
 payload:
    ########proxy#############
+  - DOMAIN,ei.phncdn.com
+  - DOMAIN,ev-h.phncdn.com
+  - DOMAIN,pix-cdn77.phncdn.com
+  - DOMAIN,cdn1-smallimg.phncdn.com
   - DOMAIN,static.trafficjunky.com
   - DOMAIN,1password.drift.click
   - DOMAIN,3dns-1.adobe.com
@@ -725,7 +729,6 @@ payload:
   - DOMAIN,zftksc.launches.appsflyersdk.com
 
    #####proxy_suffix##############
-  - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,000webhost.com
   - DOMAIN-SUFFIX,01.org
   - DOMAIN-SUFFIX,02weqj32.com
@@ -18551,7 +18554,6 @@ payload:
   - DOMAIN-SUFFIX,phimsexkhongche.cyou
   - DOMAIN-SUFFIX,phimsexnhanh.club
   - DOMAIN-SUFFIX,phmsociety.org
-  - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,phoenix-ca.ru
   - DOMAIN-SUFFIX,photo-image.monster
   - DOMAIN-SUFFIX,photodharma.net
