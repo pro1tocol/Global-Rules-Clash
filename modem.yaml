@@ -1,5 +1,6 @@
 payload:
    ########proxy#############
+  - DOMAIN,static.trafficjunky.com
   - DOMAIN,1password.drift.click
   - DOMAIN,3dns-1.adobe.com
   - DOMAIN,3dns-2.adobe.com
@@ -722,6 +723,9 @@ payload:
   - DOMAIN,zeenews-fonts.s3.amazonaws.com
   - DOMAIN,zftksc.cdn-settings.appsflyersdk.com
   - DOMAIN,zftksc.launches.appsflyersdk.com
+
+   #####proxy_suffix##############
+  - DOMAIN-SUFFIX,phncdn.com
   - DOMAIN-SUFFIX,000webhost.com
   - DOMAIN-SUFFIX,01.org
   - DOMAIN-SUFFIX,02weqj32.com
