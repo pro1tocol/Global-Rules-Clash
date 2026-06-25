@@ -1,29 +1,4 @@
 payload:
-   #  - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,twitter
-  - DOMAIN-KEYWORD,dualstack.apiproxy
-  - DOMAIN-KEYWORD,dualstack.ichnaea-web
-  - DOMAIN-KEYWORD,jooxweb-api
-  - DOMAIN-KEYWORD,spotify
-  - DOMAIN-KEYWORD,abema
-  - DOMAIN-KEYWORD,ameba
-  - DOMAIN-KEYWORD,avoddashs
-  - DOMAIN-KEYWORD,voddazn
-  - DOMAIN-KEYWORD,bbcfmt
-  - DOMAIN-KEYWORD,uk-live
-  - DOMAIN-KEYWORD,hbomax
-  - DOMAIN-KEYWORD,tiktokcdn-com
-  - DOMAIN-KEYWORD,clubhouse
-  - DOMAIN-KEYWORD,blogspot
-  - DOMAIN-KEYWORD,jav
-  - DOMAIN-KEYWORD,pinterest
-  - DOMAIN-KEYWORD,porn
-  - DOMAIN-KEYWORD,buy.itunes.apple.com
-  - DOMAIN-KEYWORD,netflix
-  - DOMAIN-KEYWORD,mytvsuper
-  - DOMAIN-KEYWORD,blogspot
-  - DOMAIN-KEYWORD,netflix
-
    ######google##############
   - DOMAIN-SUFFIX,cyber-mobile.net
   - DOMAIN-SUFFIX,265.com
