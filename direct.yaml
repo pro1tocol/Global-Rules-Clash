@@ -112567,4 +112567,34 @@ payload:
   - DOMAIN-SUFFIX,.kis.v2.scr.kaspersky-labs.com
   - DOMAIN-SUFFIX,.255.255.255.255.in-addr.arpa
   - DOMAIN-SUFFIX,.8.b.d.0.1.0.0.2.ip6.arpa
-  - DOMAIN-SUFFIX,.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.ip6.arpa
+  - DOMAIN-SUFFIX,apple-relay.cloudflare.com
+  - DOMAIN,blzddist1-a.akamaihd.net
+  - DOMAIN,officecdn-microsoft-com.akamaized.net
+  - DOMAIN-SUFFIX,71.am.com
+  - DOMAIN-SUFFIX,akadns.net
+  - DOMAIN-SUFFIX,chua.pro
+  - DOMAIN-SUFFIX,jstucdn.com
+  - DOMAIN-SUFFIX,nvidia.com
+  - DOMAIN-SUFFIX,steam-chat.com
+  - DOMAIN-SUFFIX,steamcdn-a.akamaihd.net
+  - DOMAIN-SUFFIX,steamcontent.com
+  - DOMAIN-SUFFIX,steamgames.com
+  - DOMAIN-SUFFIX,steampowered.com
+  - DOMAIN-SUFFIX,steamstat.us
+  - DOMAIN-SUFFIX,steamstatic.com
+  - DOMAIN-SUFFIX,steamusercontent.com
+  - DOMAIN-SUFFIX,vmware.com
+  - DOMAIN-SUFFIX,zimuzu.io
+  - DOMAIN-SUFFIX,zimuzu.tv
+  - DOMAIN-SUFFIX,zmz2019.com
+  - DOMAIN-SUFFIX,zmzapi.com
+  - DOMAIN-SUFFIX,zmzapi.net
+  - DOMAIN-SUFFIX,zmzfile.com
+  - DOMAIN-SUFFIX,apple-cloudkit.com
+  - DOMAIN-SUFFIX,apple.co
+  - DOMAIN-SUFFIX,apple.com
+  - DOMAIN-SUFFIX,apple.news
+  - DOMAIN-SUFFIX,appstore.com
+  - DOMAIN-SUFFIX,cdn-apple.com
+  - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,cdn.cloudflare.net

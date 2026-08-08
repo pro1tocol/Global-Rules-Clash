@@ -44,8 +44,6 @@ payload:
   - DOMAIN,api.viu.now.com
   - DOMAIN,apkmirror.disqus.com
   - DOMAIN,apl-hamivideo.cdn.hinet.net
-  - DOMAIN,apple-tv-plus-press.apple.com
-  - DOMAIN,apple.com.akadns.net
   - DOMAIN,as-dash-uk-live.akamaized.net
   - DOMAIN,as-hls-uk-live.akamaized.net
   - DOMAIN,assets.ppy.sh
@@ -59,7 +57,6 @@ payload:
   - DOMAIN,bingsettingssearch.trafficmanager.net
   - DOMAIN,blizzard.nefficient.co.kr
   - DOMAIN,blizzcon-a.akamaihd.net
-  - DOMAIN,blzddist1-a.akamaihd.net
   - DOMAIN,blzddistkr1-a.akamaihd.net
   - DOMAIN,blzmedia-a.akamaihd.net
   - DOMAIN,blznav.akamaized.net
@@ -82,7 +79,6 @@ payload:
   - DOMAIN,cloudaicompanion.googleapis.com
   - DOMAIN,cloudcode-pa.googleapis.com
   - DOMAIN,cloudsync-prod.s3.amazonaws.com
-  - DOMAIN,configuration-lb.ls-apple.com.akadns.net
   - DOMAIN,copilot-proxy.githubusercontent.com
   - DOMAIN,copilot-workspace.githubnext.com
   - DOMAIN,copilotprodattachments.blob.core.windows.net
@@ -275,7 +271,6 @@ payload:
   - DOMAIN,ntppool2.time.nl
   - DOMAIN,nurofensk-prod-env.eu-west-1.elasticbeanstalk.com
   - DOMAIN,nvidia.custhelp.com
-  - DOMAIN,officecdn-microsoft-com.akamaized.net
   - DOMAIN,onekey.zendesk.com
   - DOMAIN,ood.opsource.net
   - DOMAIN,openaiapi-site.azureedge.net
@@ -327,7 +322,6 @@ payload:
   - DOMAIN,pubg1.battleye.com
   - DOMAIN,public-us-pingsx.api.clonoth.com
   - DOMAIN,publicca.googleapis.com
-  - DOMAIN,push-apple.com.akadns.net
   - DOMAIN,pvr-hamivideo.cdn.hinet.net
   - DOMAIN,rink.hockeyapp.net
   - DOMAIN,roblox-load-generator-configuration.s3.us-east-2.amazonaws.com
@@ -446,7 +440,6 @@ payload:
   - DOMAIN,statics-marketingsites-eus-ms-com.akamaized.net
   - DOMAIN,statics-marketingsites-wcus-ms-com.akamaized.net
   - DOMAIN,steambroadcast.akamaized.net
-  - DOMAIN,steamcdn-a.akamaihd.net
   - DOMAIN,steamcloudsweden.blob.core.windows.net
   - DOMAIN,steamcommunity-a.akamaihd.net
   - DOMAIN,steamcommunity-a.akamaihd.net.edgesuite.net
@@ -464,7 +457,6 @@ payload:
   - DOMAIN,supercell.zendesk.com
   - DOMAIN,t21.nikkei.co.jp
   - DOMAIN,t21ipau.nikkei.co.jp
-  - DOMAIN,teamviewer.com.cdn.cloudflare.net
   - DOMAIN,tesla-cdn.thron.com
   - DOMAIN,thumbnail-hamivideo.cdn.hinet.net
   - DOMAIN,time-a-b.nist.gov
@@ -482,11 +474,7 @@ payload:
   - DOMAIN,time-e-b.nist.gov
   - DOMAIN,time-e-g.nist.gov
   - DOMAIN,time-e-wwv.nist.gov
-  - DOMAIN,time.apple.com
-  - DOMAIN,time.asia.apple.com
   - DOMAIN,time.aws.com
-  - DOMAIN,time.cloudflare.com
-  - DOMAIN,time.euro.apple.com
   - DOMAIN,time.facebook.com
   - DOMAIN,time.google.com
   - DOMAIN,time.nist.gov
@@ -665,7 +653,6 @@ payload:
   - DOMAIN,wwis-dubc1-vip97.adobe.com
   - DOMAIN,wwis-dubc1-vip98.adobe.com
   - DOMAIN,wwis-dubc1-vip99.adobe.com
-  - DOMAIN,www.quora.com.cdn.cloudflare.net
   - DOMAIN,yangzhi.app
   - DOMAIN,yt3.googleusercontent.com
   - DOMAIN,zeenews-fonts.s3.amazonaws.com
@@ -1859,7 +1846,6 @@ payload:
   - DOMAIN-SUFFIX,akadeem.net
   - DOMAIN-SUFFIX,akademiye.org
   - DOMAIN-SUFFIX,akadns.com
-  - DOMAIN-SUFFIX,akadns.net
   - DOMAIN-SUFFIX,akadns6.net
   - DOMAIN-SUFFIX,akaeai.com
   - DOMAIN-SUFFIX,akafms.net
@@ -2497,7 +2483,6 @@ payload:
   - DOMAIN-SUFFIX,appl4e.com
   - DOMAIN-SUFFIX,appla.com
   - DOMAIN-SUFFIX,apple
-  - DOMAIN-SUFFIX,apple-cloudkit.com
   - DOMAIN-SUFFIX,apple-darwin.com
   - DOMAIN-SUFFIX,apple-darwin.net
   - DOMAIN-SUFFIX,apple-darwin.org
@@ -2526,7 +2511,6 @@ payload:
   - DOMAIN-SUFFIX,apple.ch
   - DOMAIN-SUFFIX,apple.cl
   - DOMAIN-SUFFIX,apple.cm
-  - DOMAIN-SUFFIX,apple.co
   - DOMAIN-SUFFIX,apple.co.cr
   - DOMAIN-SUFFIX,apple.co.hu
   - DOMAIN-SUFFIX,apple.co.jp
@@ -2535,7 +2519,6 @@ payload:
   - DOMAIN-SUFFIX,apple.co.nz
   - DOMAIN-SUFFIX,apple.co.th
   - DOMAIN-SUFFIX,apple.co.uk
-  - DOMAIN-SUFFIX,apple.com
   - DOMAIN-SUFFIX,apple.com.af
   - DOMAIN-SUFFIX,apple.com.au
   - DOMAIN-SUFFIX,apple.com.bo
@@ -2588,7 +2571,6 @@ payload:
   - DOMAIN-SUFFIX,apple.my
   - DOMAIN-SUFFIX,apple.net
   - DOMAIN-SUFFIX,apple.net.gr
-  - DOMAIN-SUFFIX,apple.news
   - DOMAIN-SUFFIX,apple.nl
   - DOMAIN-SUFFIX,apple.no
   - DOMAIN-SUFFIX,apple.pk
@@ -5639,7 +5621,6 @@ payload:
   - DOMAIN-SUFFIX,cdjp.org
   - DOMAIN-SUFFIX,cdkworkshop.com
   - DOMAIN-SUFFIX,cdmatech.com
-  - DOMAIN-SUFFIX,cdn-apple.com
   - DOMAIN-SUFFIX,cdn-cookieyes.com
   - DOMAIN-SUFFIX,cdn-telegram.org
   - DOMAIN-SUFFIX,cdn-terapeak.com
@@ -6111,7 +6092,6 @@ payload:
   - DOMAIN-SUFFIX,cloudflare-ipfs.com
   - DOMAIN-SUFFIX,cloudflare-quic.com
   - DOMAIN-SUFFIX,cloudflare-terms-of-service-abuse.com
-  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloudflare.dev
   - DOMAIN-SUFFIX,cloudflare.net
   - DOMAIN-SUFFIX,cloudflare.tv
@@ -17182,7 +17162,6 @@ payload:
   - DOMAIN-SUFFIX,nvidia.co.jp
   - DOMAIN-SUFFIX,nvidia.co.kr
   - DOMAIN-SUFFIX,nvidia.co.uk
-  - DOMAIN-SUFFIX,nvidia.com
   - DOMAIN-SUFFIX,nvidia.com.au
   - DOMAIN-SUFFIX,nvidia.com.br
   - DOMAIN-SUFFIX,nvidia.com.mx
@@ -21347,7 +21326,6 @@ payload:
   - DOMAIN-SUFFIX,stcroixmosquitoproject.com
   - DOMAIN-SUFFIX,stealthex.io
   - DOMAIN-SUFFIX,steam-api.com
-  - DOMAIN-SUFFIX,steam-chat.com
   - DOMAIN-SUFFIX,steam.cdn.on.net
   - DOMAIN-SUFFIX,steam.cdn.orcon.net.nz
   - DOMAIN-SUFFIX,steam.cdn.slingshot.co.nz
@@ -21355,18 +21333,13 @@ payload:
   - DOMAIN-SUFFIX,steam.tv
   - DOMAIN-SUFFIX,steamcommunity.com
   - DOMAIN-SUFFIX,steamconnecttest.com
-  - DOMAIN-SUFFIX,steamcontent.com
   - DOMAIN-SUFFIX,steamdb.info
   - DOMAIN-SUFFIX,steamdeck.com
-  - DOMAIN-SUFFIX,steamgames.com
   - DOMAIN-SUFFIX,steaminventoryhelper.com
   - DOMAIN-SUFFIX,steamladder.com
   - DOMAIN-SUFFIX,steamofporn.com
-  - DOMAIN-SUFFIX,steampowered.com
   - DOMAIN-SUFFIX,steamserver.net
-  - DOMAIN-SUFFIX,steamstatic.com
   - DOMAIN-SUFFIX,steamunlocked.net
-  - DOMAIN-SUFFIX,steamusercontent.com
   - DOMAIN-SUFFIX,steamygamer.com
   - DOMAIN-SUFFIX,steel-storm.com
   - DOMAIN-SUFFIX,steelbrick.com
@@ -23746,7 +23719,6 @@ payload:
   - DOMAIN-SUFFIX,vmw.com
   - DOMAIN-SUFFIX,vmware-cloudmanagement.com
   - DOMAIN-SUFFIX,vmware-techcenter.com
-  - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,vmware20mosaic.com
   - DOMAIN-SUFFIX,vmwareausnews.com
   - DOMAIN-SUFFIX,vmwarecertificationvideos.com
@@ -26205,7 +26177,6 @@ payload:
   - DOMAIN-SUFFIX,api-verify.recaptcha.net
   - DOMAIN-SUFFIX,api.pureapk.com
   - DOMAIN-SUFFIX,api.recaptcha.net
-  - DOMAIN-SUFFIX,api.steampowered.com
   - DOMAIN-SUFFIX,app.cloudcone.com
   - DOMAIN-SUFFIX,app.element.io
   - DOMAIN-SUFFIX,assets.bwbx.io
@@ -26230,7 +26201,6 @@ payload:
   - DOMAIN-SUFFIX,disk.yandex.com
   - DOMAIN-SUFFIX,disk.yandex.ru
   - DOMAIN-SUFFIX,dmc.nico
-  - DOMAIN-SUFFIX,dns.cloudflare.com
   - DOMAIN-SUFFIX,evchk.wikia.com
   - DOMAIN-SUFFIX,fast.wistia.com
   - DOMAIN-SUFFIX,files.oaiusercontent.com
@@ -26292,7 +26262,6 @@ payload:
   - DOMAIN-SUFFIX,static.pocketcasts.com
   - DOMAIN-SUFFIX,static.shemalez.com
   - DOMAIN-SUFFIX,storage.yandex.net
-  - DOMAIN-SUFFIX,store.steampowered.com
   - DOMAIN-SUFFIX,sujiatun.wordpress.com
   - DOMAIN-SUFFIX,thecenter.mit.edu
   - DOMAIN-SUFFIX,tn1.shemalez.com
@@ -26322,3 +26291,46 @@ payload:
   - DOMAIN-SUFFIX,xijie.wordpress.com
   - DOMAIN-SUFFIX,zh.ecdm.wikia.com
   - DOMAIN-SUFFIX,zh.wikiquote.org
+  - DOMAIN,cdn.angruo.com
+  - DOMAIN-KEYWORD,blogspot
+  - DOMAIN-KEYWORD,google
+  - DOMAIN-SUFFIX,clubhouse.pubnub.com
+  - DOMAIN-KEYWORD,aka
+  - DOMAIN-KEYWORD,facebook
+  - DOMAIN-KEYWORD,youtube
+  - DOMAIN-KEYWORD,twitter
+  - DOMAIN-KEYWORD,instagram
+  - DOMAIN-SUFFIX,instagr.am
+  - DOMAIN-KEYWORD,gmail
+  - DOMAIN-KEYWORD,pixiv
+  - DOMAIN-SUFFIX,blog.com
+  - DOMAIN-SUFFIX,blogcdn.com
+  - DOMAIN-SUFFIX,blogsmithmedia.com
+  - DOMAIN-SUFFIX,box.net
+  - DOMAIN-SUFFIX,cl.ly
+  - DOMAIN-SUFFIX,cocoapods.org
+  - DOMAIN-SUFFIX,dnsimple.com
+  - DOMAIN-SUFFIX,fc2.com
+  - DOMAIN-SUFFIX,fabric.io
+  - DOMAIN-SUFFIX,jshint.com
+  - DOMAIN-SUFFIX,kat.cr
+  - DOMAIN-SUFFIX,linode.com
+  - DOMAIN-SUFFIX,lithium.com
+  - DOMAIN-SUFFIX,megaupload.com
+  - DOMAIN-SUFFIX,modmyi.com
+  - DOMAIN-SUFFIX,name.com
+  - DOMAIN-SUFFIX,pinboard.in
+  - DOMAIN-SUFFIX,squarespace.com
+  - DOMAIN-SUFFIX,tapbots.com
+  - DOMAIN,openai-api.arkoselabs.com
+  - DOMAIN-KEYWORD,openaicom-api
+  - DOMAIN-SUFFIX,algolia.net
+  - DOMAIN-SUFFIX,client-api.arkoselabs.com
+  - DOMAIN-SUFFIX,launchdarkly.com
+  - DOMAIN-SUFFIX,observeit.net
+  - DOMAIN-SUFFIX,dnsleaktest.com
+  - DOMAIN-SUFFIX,dnsleak.com
+  - DOMAIN-SUFFIX,ipleak.net
+  - DOMAIN-SUFFIX,browserleaks.org
+  - DOMAIN-SUFFIX,vpnunlimited.com
+  - DOMAIN-SUFFIX,whrq.net
